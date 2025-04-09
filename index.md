@@ -2,7 +2,7 @@
 ## This site serves as a refamilizarization of key Markdown principles
 Pictures
 **Heres an example of styling text**
-
+<picture>
 > Heres an example of quoting text
 
 `Heres an example of quoting code`
