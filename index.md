@@ -21,4 +21,4 @@ Heres an example of [Relative links](README.md)
 - Heres an example
 - of an unordered list
 
--[ ] Heres an example of a task lists
+-[x] Heres an example of a task lists
