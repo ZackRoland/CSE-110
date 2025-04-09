@@ -5,7 +5,7 @@
 
 Heres an example of an image 
 ![Lab Images](https://i.postimg.cc/4NBtRXfN/Screenshot-2025-04-08-at-10-35-56-PM.png)
-![Lab Images](https://i.postimg.cc/43dysGSs/Screenshot-2025-04-08-at-10-26-10-PM.png)
+![Lab Images](https://i.postimg.cc/5tv6yJVz/Screenshot-2025-04-08-at-10-37-20-PM.png)
 
 > Heres an example of quoting text
 
