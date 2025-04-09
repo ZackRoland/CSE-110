@@ -1,6 +1,6 @@
 # Introduction
 ## This site serves as a refamilizarization of key Markdown principles
-Pictures
+
 **Heres an example of styling text**
 
 Heres an example of an image ![image](https://i.postimg.cc/43dysGSs/Screenshot-2025-04-08-at-10-26-10-PM.png)
