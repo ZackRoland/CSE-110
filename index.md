@@ -11,7 +11,7 @@ Heres an example of [External Links](https://docs.github.com/en/get-started/writ
 
 Heres an example of [Section links](#introduction) 
 
-Heres an example of [Relative links](readme.md)
+Heres an example of [Relative links](README.md)
 
 1. Heres an example 
 2. of an
