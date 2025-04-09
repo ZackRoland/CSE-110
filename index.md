@@ -2,12 +2,8 @@
 ## This site serves as a refamilizarization of key Markdown principles
 Pictures
 **Heres an example of styling text**
-<picture>
-  <source
-    srcset="/shared-assets/images/examples/surfer.jpg"
-    media="(orientation: portrait)" />
-  <img src="/shared-assets/images/examples/painted-hand.jpg" alt="" />
-</picture>
+
+Heres an example of an image ![image](https://i.postimg.cc/43dysGSs/Screenshot-2025-04-08-at-10-26-10-PM.png)
 
 > Heres an example of quoting text
 
